@@ -41,14 +41,18 @@ This project:
 ## 📂 Project Structure
 image-encryption-decryption/
 │
-├── encrypt.py
-├── decrypt.py
-├── histogram.py
-├── input.jpg
+├── image_encryption
+   ├── main.py
+   ├── input.jpg
+├── image_decryption
+   ├── main.py
+├── histogram_analysis
+   ├── histogram.py
+   
 ├── encrypted_image.bin
 ├── decrypted_output.jpg
 ├── secret.key
-└── README.md
+
 
 
 ---
