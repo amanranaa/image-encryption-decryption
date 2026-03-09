@@ -1,4 +1,4 @@
-# image-encryption-decryption
+
 # 🔐 Image Encryption using AES in Python
 
 A cybersecurity project that demonstrates how digital images can be securely encrypted and decrypted using the Advanced Encryption Standard (AES) algorithm. The project ensures confidentiality of image data and prevents unauthorized access.
@@ -28,7 +28,7 @@ This project:
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies Used 
 
 - Python  
 - OpenCV  
